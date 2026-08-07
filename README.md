@@ -1,6 +1,4 @@
-
-
-##Data Scientist
+Data Scientist
 
 ### Education
 
