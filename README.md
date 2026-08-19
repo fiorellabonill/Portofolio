@@ -15,8 +15,11 @@
 ### Customer Sales / Business Analytics | Intel Corporation
 *August 2024 – August 2025*
 
-Analyzed software product revenue and large-scale datasets to identify growth opportunities and drive data-informed business decisions. Built dashboards in Power BI and Tableau, performed data analysis and transformation using SQL, and leveraged CRM data to uncover performance trends. Collaborated directly with stakeholders to translate business needs into actionable insights and revenue optimization opportunities.
-
+- Analyzed software product revenue and large-scale datasets supporting over **70% of Intel's primary revenue accounts**, identifying growth opportunities and supporting data-driven commercial decisions.
+- Built and maintained Power BI and Tableau dashboards to monitor revenue performance, customer trends, and key business metrics.
+- Leveraged SQL and CRM data to transform complex datasets into actionable insights for commercial stakeholders.
+- Partnered with cross-functional stakeholders to translate business requirements into analytical solutions and revenue optimization opportunities.
+  
 ### Credit Management Analyst | Align Technology
 *January 2024 – August 2024*
 
