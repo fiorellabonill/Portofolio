@@ -47,6 +47,8 @@ improved financial performance.
 - Developed an end-to-end multiclass classification model to predict the operational status of water pumps in Tanzania and support maintenance prioritization. Using Python and CatBoost, I performed exploratory data analysis, data cleaning, feature engineering, and model evaluation, achieving 81.3% accuracy. The analysis also identified water availability, funding source, and extraction method as the strongest predictors of pump status.
 - **Python · Pandas · CatBoost · Scikit-learn · Matplotlib · Machine Learning**
 
+-[**View Project →**](https://github.com/fiorellabonill/Proyects/tree/main/water-pump-prediction)
+
 
 
 
