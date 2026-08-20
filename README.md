@@ -22,19 +22,30 @@
   
 ### Credit Management Analyst | Align Technology
 *January 2024 – August 2024*
+-Conducted analysis of large customer credit datasets using Salesforce and SAP, supporting strategic credit
+allocation and risk management decisions.
+- Applied financial modeling and data analysis techniques to evaluate creditworthiness, improving
+forecasting accuracy and planning processes.
+- Generated insights on customer payment behavior and credit exposure, contributing to risk reduction and
+improved financial performance.
 
-[Description]
 
 ### Global Operations | McKinsey & Company
 *October 2022 – October 2023*
 
-[Description]
+- Analyzed logistics performance data to identify recurring **delivery delays, inventory shortages, and service-level gaps**, isolating operational bottlenecks and their underlying drivers.
+- Built and maintained **Power BI and Tableau dashboards** to track logistics KPIs, service levels, and operational trends, giving global teams greater visibility into supply chain performance.
+- Used quantitative analysis to identify process inefficiencies and support operational improvements that contributed to a **15% improvement in key performance metrics**.
+- Worked directly with global stakeholders to investigate performance deviations, prioritize corrective actions, and track their impact on **service delivery and operational continuity**..
 
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 
 
 ## Projects
+
+#Water Pump Status Prediction
+
+- Developed an end-to-end multiclass classification model to predict the operational status of water pumps in Tanzania and support maintenance prioritization. ----Using Python and CatBoost, I performed exploratory data analysis, data cleaning, feature engineering, and model evaluation, achieving 81.3% accuracy. The analysis also identified water availability, funding source, and extraction method as the strongest predictors of pump status.
+- ** Python · Pandas · CatBoost · Scikit-learn · Matplotlib · Machine Learning**
 
 
 
