@@ -49,6 +49,15 @@ improved financial performance.
 
 -[**View Project →**](https://github.com/fiorellabonill/Proyects/tree/main/water-pump-prediction)
 
+### NYC Taxi Trip Analytics
+
+- Developed a large-scale data analytics project using NYC Yellow Taxi trip records to identify temporal and geographic patterns in urban taxi demand. Using PySpark, I performed data cleaning, feature engineering, statistical aggregation, and geospatial analysis across more than 11 million trips. The analysis identified strong hourly and weekly demand patterns, differences between trip volume and trip characteristics, and a clear geographic concentration of pickup activity across Manhattan.
+
+- [**View Project →**](PON_AQUI_EL_LINK_DE_TU_CARPETA)
+
+
+
+
 
 
 
