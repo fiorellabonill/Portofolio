@@ -7,7 +7,7 @@
 ## Education
 
 - **M.S., Data Science, Big Data and Business Analytics** | University Complutense of Madrid | September 2025 – 2026
-- **B.S., Business Administration** | ULACIT | April 2020 – April 2024
+- **B.S., Business Administration** | ULACIT (Costa Rica) | April 2020 – April 2024
 
 
 ## Work Experience
