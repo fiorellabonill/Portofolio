@@ -2,7 +2,7 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, CRM platforms, Tableau
+#### Technical Skills: Python, Machine Learning, SQL, AWS, Snowflake, CRM platforms, Tableau, PowerBi
 
 ## Education
 
