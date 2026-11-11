@@ -13,30 +13,26 @@
 ## Work Experience
 
 ### Customer Sales / Business Analytics | Intel Corporation
-*August 2024 – August 2025*
+*August 2024 – September 2025*
 
-- Analyzed software product revenue and large-scale datasets supporting over **70% of Intel's primary revenue accounts**, identifying growth opportunities and supporting data-driven commercial decisions.
-- Built and maintained Power BI and Tableau dashboards to monitor revenue performance, customer trends, and key business metrics.
-- Leveraged SQL and CRM data to transform complex datasets into actionable insights for commercial stakeholders.
-- Partnered with cross-functional stakeholders to translate business requirements into analytical solutions and revenue optimization opportunities.
+-Analyzed sales, inventory and market trends across 6 software product lines (~$1M in sales) using Excel (pivot tables, advanced formulas), SAP, Salesforce and Power BI to inform revenue planning and forecasting
+-Queried and consolidated record sales and inventory data from SAP and Salesforce extracts using SQL [joins and aggregations] to build a single reporting layer for Power BI dashboards
+-Developed Power BI dashboards that unified SAP and Salesforce data into a single view of stock availability and operational KPIs using Power Query and Macros, improving forecast accuracy by 15% and reducing manual reporting time
+-Partnered with international sales and supply chain teams across 5 countries to streamline workflows, using data insights to align priorities and speed up decision-making
+-Processed and validated sales and inventory datasets in Python (Pandas, NumPy), performing data cleaning, transformation and exploratory analysis to support forecasting
   
 ### Credit Management Analyst | Align Technology
 *January 2024 – August 2024*
--Conducted analysis of large customer credit datasets using Salesforce and SAP, supporting strategic credit
-allocation and risk management decisions.
-- Applied financial modeling and data analysis techniques to evaluate creditworthiness, improving
-forecasting accuracy and planning processes.
-- Generated insights on customer payment behavior and credit exposure, contributing to risk reduction and
-improved financial performance.
+-Analyzed credit data for a high volume portfolio of customer accounts with credit lines of up to $500K, using Salesforce and SAP to inform credit allocation and risk decisions.
+-Evaluated customer creditworthiness based on payment history, financial ratios and debt aging, identifying high-risk accounts to support risk reduction and more accurate planning.
+-Wrote SQL queries [with joins across customer, invoice and payment tables / using window functions and CTEs] to calculate debt aging and payment behavior across a high-volume portfolio of accounts, feeding monthly credit exposure reports in Tableau
 
 
 ### Global Operations | McKinsey & Company
 *October 2022 – October 2023*
-
-- Analyzed logistics performance data to identify recurring **delivery delays, inventory shortages, and service-level gaps**, isolating operational bottlenecks and their underlying drivers.
-- Built and maintained **Power BI and Tableau dashboards** to track logistics KPIs, service levels, and operational trends, giving global teams greater visibility into supply chain performance.
-- Used quantitative analysis to identify process inefficiencies and support operational improvements that contributed to a **15% improvement in key performance metrics**.
-- Worked directly with global stakeholders to investigate performance deviations, prioritize corrective actions, and track their impact on **service delivery and operational continuity**..
+-Monitored and coordinated delivery and transportation operations, tracking KPIs (on-time delivery, order fulfillment, transit time) identifying service issues such as delays and shortages to support supply chain performance.
+-Analyzed delivery and transportation data using Excel (pivot tables), Tableau and Power BI dashboards to identify delay patterns and support process improvements
+-Coordinated with global teams to resolve operational challenges and ensure continuity of service delivery.
 
 
 
