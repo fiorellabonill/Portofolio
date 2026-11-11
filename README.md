@@ -15,24 +15,24 @@
 ### Customer Sales / Business Analytics | Intel Corporation
 *August 2024 – September 2025*
 
--Analyzed sales, inventory and market trends across 6 software product lines (~$1M in sales) using Excel (pivot tables, advanced formulas), SAP, Salesforce and Power BI to inform revenue planning and forecasting
--Queried and consolidated record sales and inventory data from SAP and Salesforce extracts using SQL [joins and aggregations] to build a single reporting layer for Power BI dashboards
--Developed Power BI dashboards that unified SAP and Salesforce data into a single view of stock availability and operational KPIs using Power Query and Macros, improving forecast accuracy by 15% and reducing manual reporting time
--Partnered with international sales and supply chain teams across 5 countries to streamline workflows, using data insights to align priorities and speed up decision-making
--Processed and validated sales and inventory datasets in Python (Pandas, NumPy), performing data cleaning, transformation and exploratory analysis to support forecasting
+- Analyzed sales, inventory and market trends across 6 software product lines (~$1M in sales) using Excel (pivot tables, advanced formulas), SAP, Salesforce and Power BI to inform revenue planning and forecasting
+- Queried and consolidated record sales and inventory data from SAP and Salesforce extracts using SQL [joins and aggregations] to build a single reporting layer for Power BI dashboards
+- Developed Power BI dashboards that unified SAP and Salesforce data into a single view of stock availability and operational KPIs using Power Query and Macros, improving forecast accuracy by 15% and reducing manual reporting time
+- Partnered with international sales and supply chain teams across 5 countries to streamline workflows, using data insights to align priorities and speed up decision-making
+- Processed and validated sales and inventory datasets in Python (Pandas, NumPy), performing data cleaning, transformation and exploratory analysis to support forecasting
   
 ### Credit Management Analyst | Align Technology
 *January 2024 – August 2024*
--Analyzed credit data for a high volume portfolio of customer accounts with credit lines of up to $500K, using Salesforce and SAP to inform credit allocation and risk decisions.
--Evaluated customer creditworthiness based on payment history, financial ratios and debt aging, identifying high-risk accounts to support risk reduction and more accurate planning.
--Wrote SQL queries [with joins across customer, invoice and payment tables / using window functions and CTEs] to calculate debt aging and payment behavior across a high-volume portfolio of accounts, feeding monthly credit exposure reports in Tableau
+- Analyzed credit data for a high volume portfolio of customer accounts with credit lines of up to $500K, using Salesforce and SAP to inform credit allocation and risk decisions.
+- Evaluated customer creditworthiness based on payment history, financial ratios and debt aging, identifying high-risk accounts to support risk reduction and more accurate planning.
+- Wrote SQL queries [with joins across customer, invoice and payment tables / using window functions and CTEs] to calculate debt aging and payment behavior across a high-volume portfolio of accounts, feeding monthly credit exposure reports in Tableau
 
 
 ### Global Operations | McKinsey & Company
 *October 2022 – October 2023*
--Monitored and coordinated delivery and transportation operations, tracking KPIs (on-time delivery, order fulfillment, transit time) identifying service issues such as delays and shortages to support supply chain performance.
--Analyzed delivery and transportation data using Excel (pivot tables), Tableau and Power BI dashboards to identify delay patterns and support process improvements
--Coordinated with global teams to resolve operational challenges and ensure continuity of service delivery.
+- Monitored and coordinated delivery and transportation operations, tracking KPIs (on-time delivery, order fulfillment, transit time) identifying service issues such as delays and shortages to support supply chain performance.
+- Analyzed delivery and transportation data using Excel (pivot tables), Tableau and Power BI dashboards to identify delay patterns and support process improvements
+- Coordinated with global teams to resolve operational challenges and ensure continuity of service delivery.
 
 
 
